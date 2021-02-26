@@ -75,10 +75,7 @@ void loop() {
     lcd.print("N/A");
 
   }
-
 }
-
-
 
 double distance() {
   digitalWrite(trigPin, LOW);
