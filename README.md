@@ -4,11 +4,11 @@
 - Grade 11</br> 
 - Computers</br> 
 - Arduino </br> 
-Various Projects </br> 
+Various Projects </br> </br> 
 - Coding</br> 
 Python</br> 
 Arduino IDE</br> 
-Processing </br> 
+Processing </br> </br> 
 - VEX Robotics </br>
 - Chess 
 
@@ -16,12 +16,12 @@ Processing </br>
 - John Fraser Secondary School  </br> 
 - Grade 11  </br>
 - Arduino </br>
-Been tinkering with it for over 5 years </br>
+Been tinkering with it for over 5 years </br></br> 
 - Coding </br>
 Arduino </br>
 Python </br>
 Some C++ </br>
-Open Processing </br>
+Open Processing </br></br> 
 - Tennis </br>
 
 
