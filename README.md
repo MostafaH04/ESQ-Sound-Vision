@@ -8,7 +8,7 @@ Various Projects </br> </br>
 - Coding</br> 
 Python</br> 
 Arduino IDE</br> 
-Processing </br> </br> 
+Processing </br>  
 - VEX Robotics </br>
 - Chess 
 
@@ -16,12 +16,12 @@ Processing </br> </br>
 - John Fraser Secondary School  </br> 
 - Grade 11  </br>
 - Arduino </br>
-Been tinkering with it for over 5 years </br></br> 
+Been tinkering with it for over 5 years </br>
 - Coding </br>
 Arduino </br>
 Python </br>
 Some C++ </br>
-Open Processing </br></br> 
+Open Processing </br>
 - Tennis </br>
 
 
