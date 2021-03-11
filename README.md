@@ -1,6 +1,6 @@
 # ⚙️ ESQ - Design for all final project 
 
-<h2> 🧑‍💻 Meet The Makers </h2>
+# 🧑‍💻 Meet The Makers 
 
 <details>
   <summary>Vinesh</summary>
