@@ -1,5 +1,7 @@
 # ⚙️ ESQ - Design for all final project 
-<h2> Vinesh </h2>
+<details open>
+<summary>W<h2> Vinesh </h2></summary>
+<br>
 - John Fraser Secondary School </br>
 - Grade 11</br> 
 - Computers</br> 
@@ -11,6 +13,9 @@ Arduino IDE</br>
 Processing </br>  
 - VEX Robotics </br>
 - Chess 
+
+</details>
+
 
 <h2> Mostafa </h2>
 - John Fraser Secondary School  </br> 
