@@ -1,6 +1,6 @@
 # ⚙️ ESQ - Design for all final project 
 <details open>
-<summary>W<h2> Vinesh </h2></summary>
+<summary><h2> Vinesh </h2></summary>
 <br>
 - John Fraser Secondary School </br>
 - Grade 11</br> 
