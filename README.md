@@ -1,5 +1,5 @@
 # ⚙️ ESQ - Design for all final project 
-<details open>
+<details>
   <summary>Vinesh</summary>
 <h5>
 - John Fraser Secondary School </br>
@@ -16,7 +16,7 @@ Processing </br>
 </h5>
 </details>
 
-<details open>
+<details>
   <summary>Mostafa</summary>
 <h5>
 - John Fraser Secondary School  </br> 
@@ -32,6 +32,7 @@ Open Processing </br>
 </h5>
 </details>
 
+<details>
  <summary>Lincoln</summary>
 <h5>
 - St.Jean de brebeuf secondary school </br>
