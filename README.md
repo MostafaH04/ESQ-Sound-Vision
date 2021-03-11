@@ -4,7 +4,7 @@
 - Grade 11</br> 
 - Computers</br> 
 - Arduino </br> 
-Various Projects </br> </br> 
+Various Projects </br>
 - Coding</br> 
 Python</br> 
 Arduino IDE</br> 
