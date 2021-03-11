@@ -16,8 +16,9 @@ Processing </br>
 </h5>
 </details>
 
-
-<h2> Mostafa </h2>
+<details open>
+  <summary>Mostafa</summary>
+<h5>
 - John Fraser Secondary School  </br> 
 - Grade 11  </br>
 - Arduino </br>
@@ -28,13 +29,18 @@ Python </br>
 Some C++ </br>
 Open Processing </br>
 - Tennis </br>
+</h5>
+</details>
 
-
-<h2> Lincoln </h2>
+ <summary>Lincoln</summary>
+<h5>
 - St.Jean de brebeuf secondary school </br>
 - Grade 9 </br>
 - Arduino-first project </br>
 - Soccer </br>
+</h5>
+</details>
+
 
 # 🤔 Problem
 - Seeing in dark and dangerous areas</br>
