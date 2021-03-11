@@ -5,7 +5,7 @@
 - Computers</br> </br> 
 - Arduino </br> </br> 
 Various Projects </br> 
-- Coding</br> </br> 
+- Coding</br> 
 Python</br> 
 Arduino IDE</br> 
 Processing </br> 
@@ -13,11 +13,11 @@ Processing </br>
 - Chess 
 
 <h2> Mostafa </h2>
-- John Fraser Secondary School  </br> </br> 
-- Grade 11  </br></br> 
-- Arduino </br></br> 
+- John Fraser Secondary School  </br> 
+- Grade 11  </br>
+- Arduino </br>
 Been tinkering with it for over 5 years </br>
-- Coding </br></br> 
+- Coding </br>
 Arduino </br>
 Python </br>
 Some C++ </br>
@@ -26,10 +26,10 @@ Open Processing </br>
 
 
 <h2> Lincoln </h2>
-- St.Jean de brebeuf secondary school </br></br> 
-- Grade 9 </br></br> 
-- Arduino-first project </br></br> 
-- Soccer </br></br> 
+- St.Jean de brebeuf secondary school </br>
+- Grade 9 </br>
+- Arduino-first project </br>
+- Soccer </br>
 
 # 🤔 Problem
 - Seeing in dark and dangerous areas</br>
