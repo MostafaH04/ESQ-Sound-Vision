@@ -1,4 +1,4 @@
-# ⚙️ ESQ - Design for all final project - Sound Vision
+# ⚙️ ESQ - Design for all final project - "Sound Vision"
 
 # 🧑‍💻 Meet The Makers 
 
